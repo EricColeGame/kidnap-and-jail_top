@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master core movement, restraint tools, and basic evasion from your very first Kidnap and Jail match."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "All Codes",
+          "description": "Redeem active promo codes to unlock bonus starter cash, extra gear, and speed boosts."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Capture Tactics",
+          "description": "Learn how to ambush roaming opponents, deploy stun batons, and securely transport targets to jail."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Kidnap and Jail."
+          "title": "Prison Escape",
+          "description": "Discover vent crawlspaces, master lockpicking minigames, and execute coordinated jailbreak extractions."
         }
       ]
     },
@@ -62,73 +62,17 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
-      ],
-      "cards": [
-        {
-          "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
-        },
-        {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
-        }
+        "Beginner Guide",
+        "Active Codes",
+        "Escape Tactics",
+        "Controls & Keybinds"
       ]
     },
     "aboutGame": {
       "title": "What is Kidnap and Jail?",
       "paragraphs": [
-        "Kidnap and Jail is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Kidnap and Jail is a fast-paced multiplayer action game on Roblox where players face off in an intense sandbox pursuit arena. Whether you take on the role of a cunning captor tracking bounties across the city or a daring fugitive evading capture, every match tests your tactical reflexes, teamwork, and spatial awareness.",
+        "From mastering restraint tools and high-speed getaway vehicles to orchestrating high-stakes prison breakouts through hidden ducts and picking security locks, our comprehensive wiki delivers verified guides, gameplay strategies, and the latest codes to keep you ahead of rival squads."
       ],
       "stats": [
         {
@@ -141,158 +85,223 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Action & Escape"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Gameplay",
+          "value": "Multiplayer PvP"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Modes",
+          "value": "Capture & Breakout"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Updates",
+          "value": "Weekly"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Kidnap and Jail Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Master the multiplayer capture arena with comprehensive guides, active codes, role breakdowns, escape tactics, and controls.",
       "modules": [
         {
           "order": 1,
-          "name": "Kidnap and Jail Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/kidnap-and-jail-codes",
-          "displayType": "code-box",
+          "name": "Kidnap and Jail Beginner Guide",
+          "description": "This module helps new players understand the core gameplay loop, including capturing opponents, carrying prisoners, defending jail areas, and rescuing teammates.",
+          "href": "/guide/kidnap-and-jail-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Scout targets and assess flanks before closing in"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Deploy stun baton or taser to immobilize opponent"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Apply sack or restraint gear and carry target to vehicle"
+            },
+            {
+              "label": "4",
+              "detail": "Drive to precinct lockup and secure captive in a cell"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/kidnap-and-jail-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Kidnap and Jail Codes",
+          "description": "This module collects active reward codes, explains where players can find new codes, and tracks code updates from official community channels.",
+          "href": "/updates/kidnap-and-jail-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "RELEASE",
+              "detail": "Free in-game cash starter bonus",
+              "badge": "Active"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "JAILBREAK",
+              "detail": "Bonus lockpick escape tool and cash boost",
+              "badge": "Active"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "BOUNTY500",
+              "detail": "Redeem for $500 free bounty currency",
+              "badge": "Active"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/kidnap-and-jail-tier-list",
-          "displayType": "tier-grid",
+          "name": "Kidnap and Jail Roles Guide",
+          "description": "This module explains different team roles and responsibilities during matches, including capturing enemies, escorting teammates, defending prisoners, and organizing rescues.",
+          "href": "/modes/kidnap-and-jail-roleplay",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Captor",
+              "detail": "Subdue roaming opponents and haul them to cells"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Fugitive",
+              "detail": "Evade pursuit, loot city objectives, and complete errands"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Inmate",
+              "detail": "Break out of cells, bypass guards, and recover gear"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Rescuer",
+              "detail": "Ambush transport vans and liberate captured teammates"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/kidnap-and-jail-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Kidnap and Jail Jail Defense Guide",
+          "description": "This module focuses on protecting captured players, repairing jail defenses, stopping escapes, and reacting to enemy rescue attempts.",
+          "href": "/mechanics/kidnap-and-jail-prison",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Vault Cell: Reinforced blast doors, redundant locks, and CCTV surveillance"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Fortified Cell: Heavy iron bars, keypad security, and timed alarms"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Outpost Cage: Sheet metal rebar and manual latches for short-term holds"
+            },
+            {
+              "label": "C",
+              "detail": "Holding Pen: Basic chain-link enclosure vulnerable to quick lockpicking"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/kidnap-and-jail-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Kidnap and Jail Rescue Guide",
+          "description": "This module covers how to rescue teammates, break prisoners out of enemy jails, and coordinate attacks safely.",
+          "href": "/mechanics/kidnap-and-jail-rescue",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Stealth",
+              "detail": "Infiltrate cell blocks during guard rotations undetected"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Lockpick",
+              "detail": "Bypass iron cell doors and disable alarm trigger circuits"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Ambush",
+              "detail": "Intercept transport vans before prisoners reach the intake facility"
+            },
+            {
+              "label": "Smoke",
+              "detail": "Deploy smoke bombs to mask the extraction of freed teammates"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/kidnap-and-jail-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Kidnap and Jail Controls Guide",
+          "description": "This module explains gameplay controls, interaction buttons, movement actions, and platform differences between PC and other devices.",
+          "href": "/controls/kidnap-and-jail-controls",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Shift",
+              "detail": "Sprint / Dash — Boost forward velocity during pursuit or escape"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "E",
+              "detail": "Interact / Cuff — Hold to restrain targets or lock cell doors"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Space",
+              "detail": "Vault / Jump — Scale obstacles, climb fences, and evade traps"
+            },
+            {
+              "label": "Q",
+              "detail": "Drop Prisoner — Instantly deposit carried target into cell or vehicle"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Kidnap and Jail Updates",
+          "description": "This module tracks new features, balance changes, events, and developer announcements.",
+          "href": "/updates/kidnap-and-jail-latest-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "New Tools",
+              "detail": "Added reinforced zip straps, stun batons, and smoke canisters"
+            },
+            {
+              "label": "Map Areas",
+              "detail": "Expanded subterranean escape tunnels and precinct holding wings"
+            },
+            {
+              "label": "Bounties",
+              "detail": "Rebalanced capture rewards and increased breakout cash bonuses"
+            },
+            {
+              "label": "Patches",
+              "detail": "Fixed stamina exploit and optimized mobile touch responsiveness"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Kidnap and Jail Community",
+          "description": "This module gathers official community channels where players can follow announcements, discuss strategies, report issues, and receive future reward information.",
+          "href": "/community/kidnap-and-jail-discord",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Discord",
+              "detail": "Join the official server for release announcements and squad matching"
+            },
+            {
+              "label": "Roblox",
+              "detail": "Follow the Rodark Studios developer group for exclusive in-game perks"
+            },
+            {
+              "label": "Guides",
+              "detail": "Share escape routes, capture strategies, and gameplay tutorials"
+            },
+            {
+              "label": "Feedback",
+              "detail": "Report bugs, propose balance updates, and preview upcoming features"
             }
           ]
         }
@@ -304,23 +313,23 @@
       "items": [
         {
           "question": "What is Kidnap and Jail?",
-          "answer": "Kidnap and Jail is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Kidnap and Jail is a fast-paced multiplayer action game on Roblox where players compete to capture opponents, secure cash bounties, and execute daring prison breakouts."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I redeem promo codes in Kidnap and Jail?",
+          "answer": "To redeem codes in Kidnap and Jail, enter a safe zone, open the codes menu via the Twitter or gift box icon, paste an active code, and claim free rewards."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What are the main playable roles in Kidnap and Jail?",
+          "answer": "Players in Kidnap and Jail take on roles including Captors who hunt bounties, Fugitives who evade arrest, Inmates who stage prison breaks, and Rescuers who free teammates."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How can inmates break out of cells in Kidnap and Jail?",
+          "answer": "Inmates in Kidnap and Jail can break out by acquiring lockpicks, crawling through hidden ventilation shafts, dodging patrolling guards, or receiving rescue assistance from teammates."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Is Kidnap and Jail supported on PC and mobile devices?",
+          "answer": "Yes, Kidnap and Jail supports cross-platform play across PC with keyboard and mouse, mobile devices with touchscreen buttons, and console controllers."
         }
       ]
     },
