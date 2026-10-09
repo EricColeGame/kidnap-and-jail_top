@@ -1,1 +1,413 @@
-{}
+{
+  "site": {
+    "name": "Kidnap and Jail Wiki",
+    "shortName": "Kidnap and Jail",
+    "tagline": "Codes, Guides & Tipps",
+    "description": "Erkunde das Kidnap and Jail Wiki für Gameplay-Guides, Codes, Tipps, Updates, Strategien und alles, was du brauchst, um dieses Multiplayer-Gefängnisabenteuer zu meistern.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler erstellt."
+  },
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mechaniken",
+    "controls": "Steuerung",
+    "modes": "Modi",
+    "community": "Community",
+    "updates": "Updates"
+  },
+  "home": {
+    "meta": {
+      "title": "Kidnap and Jail Wiki - Codes, Guides & Tipps",
+      "description": "Erkunde das Kidnap and Jail Wiki für Gameplay-Guides, Codes, Tipps, Updates, Strategien und alles, was du brauchst, um dieses Multiplayer-Gefängnisabenteuer zu meistern."
+    },
+    "hero": {
+      "eyebrow": "Roblox Multiplayer-Gefängnisausbruch",
+      "title": "Kidnap and Jail Wiki",
+      "description": "Kidnap and Jail ist ein Multiplayer-Actionspiel rund um Gefangennahme-Herausforderungen, Gefängnisausbrüche, Überlebensstrategien und kompetitives Gameplay. Entdecke Guides, Tipps, Updates und Spielinfos.",
+      "stats": [
+        "Roblox Multiplayer",
+        "Ausbruchs-Guides",
+        "Rollen-Strategien",
+        "Wöchentliche Updates"
+      ],
+      "primaryCta": "Auf Roblox spielen",
+      "secondaryCta": "Einsteiger-Guide",
+      "tertiaryCta": "Aktive Codes",
+      "videoLabel": "Gameplay-Video"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Reise in Kidnap and Jail",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Guide",
+          "description": "Meistere grundlegende Bewegung, Fesselwerkzeuge und Ausweichmanöver von deinem allerersten Kidnap and Jail Match an."
+        },
+        {
+          "number": "2",
+          "title": "Alle Codes",
+          "description": "Löse aktive Aktionscodes ein, um zusätzliches Startgeld, Ausrüstung und Geschwindigkeits-Boosts freizuschalten."
+        },
+        {
+          "number": "3",
+          "title": "Gefangennahme-Taktiken",
+          "description": "Lerne, wie du umherstreifende Gegner überraschst, Elektroschocker einsetzt und Gefangene sicher ins Gefängnis transportierst."
+        },
+        {
+          "number": "4",
+          "title": "Gefängnisausbruch",
+          "description": "Finde geheime Lüftungsschächte, meistere Dietrich-Minispiele und führe koordinierte Ausbrüche mit deinem Team durch."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Aktuelle Trends",
+      "quickLinks": [
+        "Einsteiger-Guide",
+        "Aktive Codes",
+        "Ausbruchs-Taktiken",
+        "Steuerung & Tastenbelegung"
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Kidnap and Jail?",
+      "paragraphs": [
+        "Kidnap and Jail ist ein schnelles Multiplayer-Actionspiel auf Roblox, in dem Spieler in einer spannenden Verfolgungs- und Fangarena gegeneinander antreten. Ob du als geschickter Jäger Kopfgelder in der Stadt einsammelst oder als mutiger Flüchtiger den Handschellen entkommst – jedes Match fordert deine taktischen Reflexe, Teamarbeit und räumliche Übersicht.",
+        "Vom sicheren Umgang mit Fesselwerkzeugen und rasanten Fluchtfahrzeugen bis hin zur Planung waghalsiger Gefängnisausbrüche durch Lüftungsschächte und das Knacken von Sicherheitsschlössern – unser umfassendes Wiki bietet verifizierte Guides, Spielstrategien und die neuesten Codes, um dir den entscheidenden Vorteil zu sichern."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Rodark Studios"
+        },
+        {
+          "label": "Plattform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Action & Flucht"
+        },
+        {
+          "label": "Gameplay",
+          "value": "Multiplayer-PvP"
+        },
+        {
+          "label": "Modi",
+          "value": "Fang & Ausbruch"
+        },
+        {
+          "label": "Updates",
+          "value": "Wöchentlich"
+        }
+      ],
+      "cta": "Alle Guides erkunden"
+    },
+    "explore": {
+      "title": "Entdecke das Kidnap and Jail Wiki",
+      "description": "Meistere die Multiplayer-Fangarena mit verständlichen Guides, aktiven Codes, Rollenübersichten, Fluchttaktiken und Steuerungsdetails.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Kidnap and Jail Einsteiger-Guide",
+          "description": "Dieses Modul vermittelt neuen Spielern die Grundlagen: Gegner fangen, Gefangene tragen, Zellentrakte verteidigen und Teamkameraden befreien.",
+          "href": "/guide/kidnap-and-jail-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Ziele auskundschaften und Flanken vor dem Angriff prüfen"
+            },
+            {
+              "label": "2",
+              "detail": "Elektroschlagstock oder Taser einsetzen, um Gegner zu stoppen"
+            },
+            {
+              "label": "3",
+              "detail": "Sack oder Fesseln anlegen und Zielperson zum Fahrzeug tragen"
+            },
+            {
+              "label": "4",
+              "detail": "Zum Wachrevier fahren und den Gefangenen sicher einsperren"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Kidnap and Jail Codes",
+          "description": "Dieses Modul sammelt aktive Belohnungscodes, erklärt Fundorte für neue Codes und verfolgt Updates aus offiziellen Kanälen.",
+          "href": "/updates/kidnap-and-jail-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "RELEASE",
+              "detail": "Kostenloser In-Game-Geld-Starterbonus",
+              "badge": "Aktiv"
+            },
+            {
+              "label": "JAILBREAK",
+              "detail": "Dietrich-Fluchtwerkzeug und zusätzlicher Geld-Boost",
+              "badge": "Aktiv"
+            },
+            {
+              "label": "BOUNTY500",
+              "detail": "Einlösen für 500 $ kostenloses Kopfgeld",
+              "badge": "Aktiv"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Kidnap and Jail Rollen-Guide",
+          "description": "Dieses Modul erklärt verschiedene Teamrollen und Aufgaben: Feinde fangen, Partner eskortieren, Gefangene bewachen und Befreiungen organisieren.",
+          "href": "/modes/kidnap-and-jail-roleplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Fänger",
+              "detail": "Feinde überwältigen und in die Gefängniszellen transportieren"
+            },
+            {
+              "label": "Flüchtiger",
+              "detail": "Verfolgung entkommen, Stadtziele plündern und Aufgaben lösen"
+            },
+            {
+              "label": "Insasse",
+              "detail": "Aus Zellen ausbrechen, Wachen umgehen und Ausrüstung finden"
+            },
+            {
+              "label": "Befreier",
+              "detail": "Gefangenentransporter überfallen und gefangene Mitspieler retten"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Kidnap and Jail Gefängnisverteidigungs-Guide",
+          "description": "Dieses Modul konzentriert sich auf die Sicherung von Gefangenen, Reparatur von Zellen, Abwehr von Ausbrüchen und feindlichen Rettungsversuchen.",
+          "href": "/mechanics/kidnap-and-jail-prison",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Tresorzelle: Gepanzerte Schleusentüren, doppelte Schlösser und CCTV-Überwachung"
+            },
+            {
+              "label": "A",
+              "detail": "Befestigte Zelle: Massive Eisenstäbe, Tastenfeld-Sicherheit und Alarmtimer"
+            },
+            {
+              "label": "B",
+              "detail": "Außenposten-Käfig: Metallgitter und manuelle Riegel für kurze Verwahrung"
+            },
+            {
+              "label": "C",
+              "detail": "Basis-Zaun: Einfache Maschendrahtumzäunung, leicht zu knacken"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Kidnap and Jail Rettungs-Guide",
+          "description": "Dieses Modul behandelt, wie man Teammitglieder rettet, Insassen aus gegnerischen Gefängnissen befreit und Angriffe koordiniert.",
+          "href": "/mechanics/kidnap-and-jail-rescue",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Tarnung",
+              "detail": "Unerkannt während des Wachwechsels in die Zellentrakte schleichen"
+            },
+            {
+              "label": "Dietrich",
+              "detail": "Eiserne Zellentüren knacken und Alarmsensoren überbrücken"
+            },
+            {
+              "label": "Hinterhalt",
+              "detail": "Transporter abfangen, bevor Gefangene das Revier erreichen"
+            },
+            {
+              "label": "Rauch",
+              "detail": "Rauchgranaten zünden, um den Rückzug befreiter Mitspieler zu decken"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Kidnap and Jail Steuerungs-Guide",
+          "description": "Dieses Modul erklärt die Spielsteuerung, Interaktionstasten, Bewegungsabläufe und Unterschiede zwischen PC und Mobilgeräten.",
+          "href": "/controls/kidnap-and-jail-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Umschalt",
+              "detail": "Sprinten / Sprint — Vorwärtstempo bei Verfolgung oder Flucht steigern"
+            },
+            {
+              "label": "E",
+              "detail": "Interagieren / Fesseln — Halten, um Ziele zu fesseln oder Türen zu schließen"
+            },
+            {
+              "label": "Leertaste",
+              "detail": "Springen / Klettern — Hindernisse überwinden, Zäune erklimmen und Fallen meiden"
+            },
+            {
+              "label": "Q",
+              "detail": "Gefangenen absetzen — Ziel sofort in einer Zelle oder im Wagen deponieren"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Kidnap and Jail Updates",
+          "description": "Dieses Modul dokumentiert neue Spielfunktionen, Balance-Anpassungen, Events und offizielle Entwickler-Mitteilungen.",
+          "href": "/updates/kidnap-and-jail-latest-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Neue Tools",
+              "detail": "Verstärkte Kabelbinder, Elektrostöcke und Rauchgranaten hinzugefügt"
+            },
+            {
+              "label": "Kartenbereiche",
+              "detail": "Erweiterte unterirdische Fluchttunnel und neue Zellentrakte im Revier"
+            },
+            {
+              "label": "Kopfgelder",
+              "detail": "Belohnungen neu ausbalanciert und höhere Ausbruchsprämien eingeführt"
+            },
+            {
+              "label": "Patches",
+              "detail": "Ausdauer-Exploit behoben und Touch-Steuerung für Mobilgeräte optimiert"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Kidnap and Jail Community",
+          "description": "Dieses Modul bündelt offizielle Community-Kanäle, auf denen Spieler Ankündigungen verfolgen, Taktiken teilen und Feedback geben.",
+          "href": "/community/kidnap-and-jail-discord",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Discord",
+              "detail": "Offiziellem Server beitreten für Patchnotizen und Team-Suche"
+            },
+            {
+              "label": "Roblox",
+              "detail": "Der Rodark Studios Gruppe beitreten für exklusive Spielvorteile"
+            },
+            {
+              "label": "Guides",
+              "detail": "Fluchtwege, Fangtaktiken und Gameplay-Tutorials teilen"
+            },
+            {
+              "label": "Feedback",
+              "detail": "Fehler melden, Balance-Vorschläge einreichen und Vorschauen sehen"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Schnelle Antworten auf die wichtigsten Fragen zu Kidnap and Jail.",
+      "items": [
+        {
+          "question": "Was ist Kidnap and Jail?",
+          "answer": "Kidnap and Jail ist ein schnelles Multiplayer-Actionspiel auf Roblox, in dem Spieler Gegner fangen, Kopfgelder kassieren und waghalsige Gefängnisausbrüche wagen."
+        },
+        {
+          "question": "Wie löse ich Promo-Codes in Kidnap and Jail ein?",
+          "answer": "Gehe in eine Sicherheitszone, öffne das Codes-Menü über das Twitter- oder Geschenksymbol, füge einen aktiven Code ein und fordere deine Belohnungen an."
+        },
+        {
+          "question": "Welche Hauptrollen gibt es in Kidnap and Jail?",
+          "answer": "Spieler können als Fänger Kopfgelder jagen, als Flüchtige der Polizei entkommen, als Insassen ausbrechen oder als Befreier Teammitglieder retten."
+        },
+        {
+          "question": "Wie können Insassen in Kidnap and Jail aus Zellen ausbrechen?",
+          "answer": "Insassen können mit Dietrichen Schlösser knacken, durch Lüftungsschächte kriechen, Wachleute austricksen oder Hilfe von Teamkameraden erhalten."
+        },
+        {
+          "question": "Funktioniert Kidnap and Jail auf PC und Mobilgeräten?",
+          "answer": "Ja, Kidnap and Jail unterstützt Crossplay auf PC mit Tastatur und Maus, auf Mobilgeräten mit Touchscreen sowie mit Konsolen-Controllern."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Kidnap and Jail zu meistern?",
+      "description": "Von der Planung deines ersten Ausbruchs bis zur Verteidigung der Zellen und Rettung von Mitspielern – unser Community-Wiki bietet kostenlose, aktuelle Guides.",
+      "primary": "Einsteiger-Guide lesen",
+      "secondary": "Auf Roblox spielen"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Bereich",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Weiterführende Artikel",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Derzeit sind keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Kidnap and Jail Wiki",
+    "about": "Das Kidnap and Jail Wiki ist eine unabhängige, von Fans erstellte Guide-Zentrale zu Fangmechaniken, Gefängnisverteidigung, Ausbrüchen, Teamrollen und Basiswissen für neue und erfahrene Spieler.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Kidnap and Jail Wiki. Nicht mit Rodark Studios oder Roblox verbunden.",
+    "description": "Roblox Multiplayer-Gefängnisausbruch-Abenteuer mit Fangmechaniken, Teamverteidigung und Rettungsstrategien.",
+    "playGame": "Auf Roblox spielen",
+    "officialDiscord": "Offizielle Community",
+    "officialYoutube": "Offizielles Gameplay",
+    "vvBuilder": "Kidnap and Jail Guide",
+    "beginnerGuide": "Einsteiger-Guide",
+    "raceGuides": "Rollen-Guides",
+    "bossGuides": "Verteidigungs-Guides",
+    "buildGuide": "Rettungs-Guide",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen",
+    "mechanicsGuide": "Mechanik-Guide",
+    "controlsGuide": "Steuerungs-Guide",
+    "updatesGuide": "Updates & Codes"
+  },
+  "guide": {
+    "overviewTitle": "Kidnap and Jail Guides & Komplettlösungen",
+    "overviewDescription": "Umfassende Einsteiger-Guides, Schritt-für-Schritt-Tutorials und Spielstrategien, um Kidnap and Jail zu meistern."
+  },
+  "mechanics": {
+    "overviewTitle": "Kidnap and Jail Kernmechaniken",
+    "overviewDescription": "Detaillierte Analyse zu Fesselung, Gefangenentransport, Gefängnisverteidigung und gewagten Ausbrüchen in Kidnap and Jail."
+  },
+  "controls": {
+    "overviewTitle": "Kidnap and Jail Steuerung & Tastenbelegung",
+    "overviewDescription": "Komplette Tastenbelegung und Steuerungsübersicht für PC, Mobilgeräte und Multiplayer in Kidnap and Jail."
+  },
+  "modes": {
+    "overviewTitle": "Kidnap and Jail Spielmodi & Herausforderungen",
+    "overviewDescription": "Erkunde Spielmodi, Herausforderungen, Rollenspiel-Szenarien und Gruppen-Optionen in Kidnap and Jail."
+  },
+  "community": {
+    "overviewTitle": "Kidnap and Jail Community-Hub",
+    "overviewDescription": "Vernetze dich mit anderen Spielern über Discord, Reddit, Gameplay-Videos und die Community von Kidnap and Jail."
+  },
+  "updates": {
+    "overviewTitle": "Kidnap and Jail Updates & Patchnotizen",
+    "overviewDescription": "Verfolge die neuesten Patches, Veröffentlichungstermine, geheime Entdeckungen und Belohnungscodes in Kidnap and Jail."
+  }
+}
