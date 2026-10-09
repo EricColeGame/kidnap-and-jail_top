@@ -6,7 +6,14 @@
     "description": "Explore Kidnap and Jail Wiki for gameplay guides, codes, tips, updates, strategies, and everything players need to master this multiplayer prison adventure game.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "controls": "Controls",
+    "modes": "Modes",
+    "community": "Community",
+    "updates": "Updates"
+  },
   "home": {
     "meta": {
       "title": "Kidnap and Jail Wiki - Codes, Guides & Tips",
@@ -340,7 +347,6 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -375,6 +381,33 @@
     "bossGuides": "Defense Guides",
     "buildGuide": "Rescue Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "mechanicsGuide": "Mechanics Guide",
+    "controlsGuide": "Controls Guide",
+    "updatesGuide": "Updates & Codes"
+  },
+  "guide": {
+    "overviewTitle": "Kidnap and Jail Guides & Walkthroughs",
+    "overviewDescription": "Comprehensive beginner guides, tutorials, and gameplay strategies to master Kidnap and Jail."
+  },
+  "mechanics": {
+    "overviewTitle": "Kidnap and Jail Core Mechanics",
+    "overviewDescription": "Detailed breakdown of kidnapping, carrying, prison defense, and daring escape mechanics in Kidnap and Jail."
+  },
+  "controls": {
+    "overviewTitle": "Kidnap and Jail Controls & Keybinds",
+    "overviewDescription": "Complete control layouts and keybindings for PC, mobile, and multiplayer in Kidnap and Jail."
+  },
+  "modes": {
+    "overviewTitle": "Kidnap and Jail Game Modes & Challenges",
+    "overviewDescription": "Explore different game modes, challenge setups, roleplay scenarios, and party options in Kidnap and Jail."
+  },
+  "community": {
+    "overviewTitle": "Kidnap and Jail Community Hub",
+    "overviewDescription": "Connect with fellow players via Discord, Reddit, gameplay showcases, and community videos for Kidnap and Jail."
+  },
+  "updates": {
+    "overviewTitle": "Kidnap and Jail Updates & Release Notes",
+    "overviewDescription": "Track the latest patches, release dates, secret discoveries, and promotional reward codes in Kidnap and Jail."
   }
 }
